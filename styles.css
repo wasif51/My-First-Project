@@ -175,3 +175,35 @@ span{
 .hot-pic{
     padding-right: 50px;
 }
+.insta-sec{
+    height: 80vh;
+}
+.insta{
+    text-align: center;
+    margin-top: 100px;
+}
+.insta-title{
+    color: #272727;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.insta-description{
+  
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.insta-pic{
+
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+   
+}
