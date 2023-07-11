@@ -211,7 +211,7 @@ span{
     background-image: url('./logo/Rectangle\ 9.png');
     background-position: cover;
     width: 1250px;
-    height: 400px;
+    height: 350px;
     margin-left: 300px;
     margin-right: 100px;
     margin-top: 80px;
@@ -257,12 +257,16 @@ span{
     border: none;
 }
 .footer{
-    width: 100%;
+    width: 90%;
     text-align: center;
-    height: 449px;
+    height: 150px;
     background-color: black;
-    padding 50px;
+    padding: 100px;
     margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
     
 }
 .footer-sec{
@@ -274,7 +278,7 @@ span{
     font-weight: 800px;
     margin-bottom: 10px;
 }
-.span{
+.span-color{
     color: white;
 }
 .footer-description{
