@@ -256,3 +256,27 @@ span{
     color: #FFF;
     border: none;
 }
+.footer{
+    width: 100%;
+    text-align: center;
+    height: 449px;
+    background-color: black;
+    padding 50px;
+    margin-top: 80px;
+    
+}
+.footer-sec{
+    color: white;
+}
+.footer-title{
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800px;
+    margin-bottom: 10px;
+}
+.span{
+    color: white;
+}
+.footer-description{
+    margin-bottom: 20px;
+}
